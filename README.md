@@ -49,11 +49,11 @@ Run the application:
 - When you add or complete todos, the file is updated ✏️
 - The interface automatically refreshes when changes are made ♻️
 
-📋 Requirements
+## 📋 Requirements
 - Python 3.x 🐍
 - Streamlit package 🌐
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 - 📅 Add due dates to todos
 - ⚠️ Add priority levels
 - 🗂️ Categorize todos

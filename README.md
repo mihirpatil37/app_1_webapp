@@ -20,13 +20,14 @@ A simple web-based Todo application built with Python and Streamlit. ✅
 
 1. Make sure you have Python installed (version 3.6 or higher recommended)
 2. Install the required packages:
-   ```bash
+```bash
    pip install streamlit
+```
 ## 🚀 Usage
 Run the application:
-  ```bash
+```bash
   streamlit run web.py
- ```
+```
 ## To add a new todo:
 
 - ✏️ Type your task in the text box at the bottom
